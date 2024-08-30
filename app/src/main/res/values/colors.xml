@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color -->
+    <color name="colorPrimary">#6200EE</color> <!-- Purple -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Darker purple -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White text on primary color -->
+
+    <!-- Secondary brand color -->
+    <color name="colorSecondary">#03DAC5</color> <!-- Teal -->
+    <color name="colorOnSecondary">#000000</color> <!-- Black text on secondary color -->
+
+    <!-- Background and surface colors -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White background -->
+    <color name="colorSurface">#FFFFFF</color> <!-- White surface -->
+    <color name="colorOnBackground">#000000</color> <!-- Black text on background -->
+    <color name="colorOnSurface">#000000</color> <!-- Black text on surface -->
+</resources>
